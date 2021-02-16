@@ -10,6 +10,9 @@ It doesn't even have actual definitions or grammar rules listed anywhere, it is 
 Thus, it is merely meant as a supplemental tool for practice alongside the textbook itself, it is not meant to be used as a sole resource for learning Japanese. 
 The use case is mainly for people who have gone through the lesson in the textbook and done the speaking, reading, and writing practice there, but still want more practice outside of that to strengthen their memory of vocab, grammar rules, and kanji. 
 
+For example, a student might just want to do the workbook exercises since that is what they will be graded on in their class, but a tourist might just want to review the vocab after seeing it in the textbook since they only need surface level knowledge for their trip. 
+In contrast, anyone who yearns to be a fluent speaker could consistently work through all of the exercises, even the kanji games I plan to implement. 
+
 ![Genki Study Resources Use Case Diagram](ProjectProposal.png)
 
 ## Project Relevance
