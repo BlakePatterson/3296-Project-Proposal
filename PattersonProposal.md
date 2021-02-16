@@ -6,8 +6,9 @@ Blake Patterson
 げんき (Genki) Study Resources is an open source web app for studying Japanese alongside the げんき textbook
 owned and maintained by [Seth Clydesdale](https://github.com/SethClydesdale) as well as other contributors. 
 It contains some of the content from each of the lessons in げんき including the vocab and grammar, but not the lessons themselves.
-It is merely meant as a supplemental tool for practice alongside the textbook itself. 
-Thus, the use case is mainly for people who have gone through the lesson in the textbook and done the speaking, reading, and writing practice there, but still want more practice outside of that.
+It doesn't even have actual definitions or grammar rules listed anywhere, it is strictly a set of different types of practice quizzes (drag & drop, multiple choice, etc.) and other random exercises. 
+Thus, it is merely meant as a supplemental tool for practice alongside the textbook itself, it is not meant to be used as a sole resource for learning Japanese. 
+The use case is mainly for people who have gone through the lesson in the textbook and done the speaking, reading, and writing practice there, but still want more practice outside of that to strengthen their memory of vocab, grammar rules, and kanji. 
 
 ![Genki Study Resources Use Case Diagram](ProjectProposal.png)
 
